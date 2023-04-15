@@ -2,4 +2,4 @@
 
 A replicate of the Data Professor video.
 
-An analysis of bitcoin price change, using yfinance package.
+An analysis of bitcoin ₿ price change, using yfinance package.
